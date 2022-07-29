@@ -1,0 +1,38 @@
+[
+    {
+      "id": 93842,
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "id": 34534,
+      "name": "Buy",
+      "url": "/buy"
+    },
+    {
+      "id": 234232,
+      "name": "Swap",
+      "url": "/swap"
+    },
+    {
+      "id": 56756,
+      "name": "Insurance",
+      "url": "/insurance"
+    },
+    {
+      "id": 6546456,
+      "name": "Claims",
+      "url": "/claims"
+    },
+    {
+      "id": 3534345,
+      "name": "Bond",
+      "url": "/bond"
+    },
+    {
+      "id": 56756767,
+      "name": "Stake",
+      "url": "/stake"
+    }
+  ]
+  
